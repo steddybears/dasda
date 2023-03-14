@@ -1,4 +1,4 @@
-# run in cli         fetch -o - https://192.168.1.1/install.sh | sh -s
+# run in cli         fetch -o - /tmp/install.sh | sh -s
 
 
 # install-unifi.sh
